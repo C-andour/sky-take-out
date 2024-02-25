@@ -11,3 +11,11 @@ sky:
     access-key-id: LTAI5t5i8XVbj61Q9Mm4gt8k
     access-key-secret: q0jblRZneFxQTW0Daj6XvGBSCJPDaT
     bucket-name: candour-sky-takeout
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 10
+  wechat:
+    appid: wxf84e32ad0dca7068
+    secret: 6c0c95b83088df97d226be4015848309
